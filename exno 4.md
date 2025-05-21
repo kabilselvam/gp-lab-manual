@@ -28,4 +28,4 @@ To Attach Rifle with character mesh and implementation bullet spawn from Rifle
 ![image](https://github.com/user-attachments/assets/4ffffb5e-0a42-44ca-ab26-d18cca1b782c)
 
 ## Result:
-To Attach Rifle with character mesh and implementation bullet spawn from Rifle is implemented successfully
+To Attach Rifle with character mesh and implementation bullet spawn from Rifle is implemented successfully.
