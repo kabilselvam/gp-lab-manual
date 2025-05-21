@@ -38,4 +38,4 @@ To Change the third-person character mesh and add animations
 
 
 ## Result:
-Changing the third-person character mesh and adding animations is implemented Successfully
+Changing the third-person character mesh and adding animations is implemented Successfully.
